@@ -30,7 +30,7 @@ in fisierul input, precum si int* val_var in care vol salva
 valoarea acestor variabile. Structura TNod/*TArb va reprezenta
 structura unui nod a arborelui pe care-l vom construi, in care
 avem opd - operandul, opt - operatorul, flag - un flag ce ne
-va ajuta la distrugerea acestui arbore, si st,dt,parinte,curent-ne vor ajuta sa gestionam cu introducerea in arbore.
+va ajuta la distrugerea acestui arbore, si st,dt,parinte,curent -ne vor ajuta sa gestionam cu introducerea in arbore.
 
 2.Functia constr_frunza va construi o celula pentru arbore si va 
 seta elementele necesare conform conditiilor de input.
