@@ -15,6 +15,8 @@ In a.out se va genera rezultatele.
 In acest program am realizat un calculator care, initial, evalueaza o expresie matematica primita in forma prefixata folosind arbori de expresie care ne vor scuti de necesitatea folosirii parantezelor , in care nodurile sunt asociate operatorilor iar frunzele operanzilor.
 
 O expresie poate fi reprezentată prin următoarele reguli:
+
+
 expr ::= variabilă | valoare
 expr ::= expr + expr | expr * expr | expr / expr| sqrt(expr) | expr ^ expr
 
